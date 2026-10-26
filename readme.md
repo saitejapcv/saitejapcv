@@ -16,7 +16,7 @@
 
 👨‍💻 About Me
 
-Hey! I'm Sachit (Pappula Charan Venkat Sai Teja), a developer who enjoys turning ideas into practical projects and exploring how technology can solve real-world problems.
+Hey! I'm Charan (Pappula Charan Venkat Sai Teja), a developer who enjoys turning ideas into practical projects and exploring how technology can solve real-world problems.
 
 💻 Building web applications and experimenting with new technologies.
 🤖 Exploring machine learning and data-driven solutions.
