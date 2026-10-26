@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sachit 👋
+# Hey, I'm Charan 👋
 
 ### `> building things that work.`
 
