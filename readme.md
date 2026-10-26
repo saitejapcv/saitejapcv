@@ -2,7 +2,7 @@
 
 <!-- Animated header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=220&section=header&text=Hey,%20I'm%20Sachit%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=220&section=header&text=Hey,%20I'm%20Charan%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Animated profile header"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+things+that+work.;Turning+ideas+into+real+projects.;Exploring+Machine+Learning+%26+Web+Development.;Learn+by+building+%E2%86%92+Ship+%E2%86%92+Iterate." alt="Animated typing introduction"/>
