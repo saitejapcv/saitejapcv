@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-saitejapcv-111827?style=flat-square&logo=github)](https://github.com/saitejapcv)
 [![Repositories](https://img.shields.io/badge/Projects-Explore-312e81?style=flat-square&logo=github)](https://github.com/saitejapcv?tab=repositories)
-[![Instagram](https://img.shields.io/badge/Instagram-sachit2097-111827?style=flat-square&logo=instagram)](https://instagram.com/sachit2097)
+[![Instagram](https://img.shields.io/badge/Instagram-pcvsaiteja?style=flat-square&logo=instagram)](https://instagram.com/pcvsaiteja)
 
 </div>
 
