@@ -132,7 +132,7 @@ Small builds, new ideas, and projects created while learning.
 ### Let's build something interesting.
 
 [![GitHub](https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/saitejapcv)
-[![Instagram](https://img.shields.io/badge/Connect-sachit2097-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/sachit2097)
+[![Instagram](https://img.shields.io/badge/Connect-pcvsaiteja?style=for-the-badge&logo=instagram)](https://instagram.com/pcvsaiteja)
 
 <br/>
 
