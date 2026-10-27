@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-saitejapcv-111827?style=flat-square&logo=github)](https://github.com/saitejapcv)
 [![Repositories](https://img.shields.io/badge/Projects-Explore-312e81?style=flat-square&logo=github)](https://github.com/saitejapcv?tab=repositories)
-[![Instagram](https://img.shields.io/badge/Instagram-pcvsaiteja?style=flat-square&logo=instagram)](https://instagram.com/pcvsaiteja)
+[![Instagram](https://img.shields.io/badge/Instagram-pcvsaiteja-111827?style=flat-square&logo=instagram)](https://instagram.com/pcvsaiteja)
 
 </div>
 
@@ -132,7 +132,7 @@ Small builds, new ideas, and projects created while learning.
 ### Let's build something interesting.
 
 [![GitHub](https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/saitejapcv)
-[![Instagram](https://img.shields.io/badge/Connect-pcvsaiteja?style=for-the-badge&logo=instagram)](https://instagram.com/pcvsaiteja)
+[![Instagram](https://img.shields.io/badge/Connect-pcvsaiteja-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/pcvsaiteja)
 
 <br/>
 
